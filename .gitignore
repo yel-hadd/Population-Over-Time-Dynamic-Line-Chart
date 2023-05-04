@@ -1,0 +1,6 @@
+Lib/*
+Scripts/*
+share/*
+Include/*
+etc/*
+*.cfg
