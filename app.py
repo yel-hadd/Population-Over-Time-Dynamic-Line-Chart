@@ -41,7 +41,7 @@ fig.add_trace(go.Scatter(
 fig.update_layout(
     title=f'{country_dropdown} Population Over Time',
     xaxis_title='Year',
-    yaxis_title='Population (in millions)'
+    yaxis_title='Population'
 )
 
 # Show the chart
