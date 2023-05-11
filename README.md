@@ -1,6 +1,9 @@
 # Population-Over-Time-Dynamic-Line-Chart
 This project creates a dynamic line chart that shows the population of the selected country over time. The chart is interactive, so users can select any country from a dropdown menu and see the population data for that country. The chart is also easy to read, with clear labels and a concise title.
 
+## Preview
+here: https://lnkd.in/d7ddDTxr
+
 ## Requirements
 * Python 3.8 or higher
 * Streamlit 1.12.0 or higher
